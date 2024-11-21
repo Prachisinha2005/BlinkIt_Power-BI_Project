@@ -1,4 +1,4 @@
-#Blinkit Power BI Dashboard
+# Blinkit Power BI Dashboard
 <a href="https://miro.medium.com/v2/resize:fit:1200/1*8hWRnRjfPf7bmGHk_zxNBg.png">
   <img src="https://miro.medium.com/v2/resize:fit:1200/1*8hWRnRjfPf7bmGHk_zxNBg.png" alt="Dashboard Image" width="500"/>
 </a>
