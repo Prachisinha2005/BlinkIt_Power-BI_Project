@@ -1,4 +1,4 @@
-#Blinkit Power BI Dashboard
+Blinkit Power BI Dashboard
 [![Dashboard Image](https://miro.medium.com/v2/resize:fit:1200/1*8hWRnRjfPf7bmGHk_zxNBg.png)](https://miro.medium.com/v2/resize:fit:1200/1*8hWRnRjfPf7bmGHk_zxNBg.png)
 
 ## Project Overview
